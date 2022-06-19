@@ -30,4 +30,4 @@ foreach ($dir in $alldir){ #对每个文件夹执行下面的命令
 }
 
 
-Stop-Transcript #
+Stop-Transcript # 
