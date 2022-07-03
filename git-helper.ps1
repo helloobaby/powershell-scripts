@@ -1,5 +1,8 @@
-﻿#
-#Changes not staged for commit
+#
+# 主要是方便自己判断哪些git仓库还有更改没有提交到云端的。
+# 适合喜欢在一个根目录下存放所有代码的人
+# 执行完后ctrl+f搜一下有没有下面英文的就可以判断了
+# Changes not staged for commit
 #
 #
 #
